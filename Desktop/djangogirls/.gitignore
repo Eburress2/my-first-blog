@@ -1,0 +1,78 @@
+# Python
+*.pyc
+*~
+__pycache__
+
+# Env
+.env
+venv/
+venv/
+
+# Database
+db.sqlite3
+
+# Static folder at project root
+/static/
+
+# macOS
+._*
+.DS_Store
+.fseventsd
+.Spotlight-V100
+
+# Windows
+Thumbs.db*
+ehthumbs*.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio
+.vscode/
+.history/
+*.code-workspace
+
+# Ignore system and config files
+*.log
+*.lnk
+*.ini
+*.dat
+*.blf
+*.regtrans-ms
+
+# Ignore common directories
+/.anaconda/
+/.android/
+/.cache/
+/.conda/
+/.continuum/
+/idlerc/
+/.ipython/
+/.jupyter/
+/vscode/
+/Documents/
+/Downloads/
+/Favorites/
+/OneDrive/
+/Saved Games/
+/Searches/
+/Videos/
+/Music/
+/Pictures/
+
+/AppData/
+/source/
+/usb_driver/
+/Hard drive apps/
+/Python Projects/
+/SDEV220/
+/School/
+/Mods/
+/Stream/
+/Video Creation/
+/Visual Studio Code.lnk
+
+# Ignore specific files
+AMDRM_Install.log
+AMD_RyzenMaster.log
+AMD_RyzenMaster_Uninstall.log
+NTUSER.DAT*
